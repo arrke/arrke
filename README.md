@@ -1,7 +1,7 @@
 ### Hello there 👋
 [![Arke's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrke&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arrke&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arrke&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) </p>
 <!--
 **arrke/arrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
