@@ -1,5 +1,5 @@
 ### Hello there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arrke&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arrke&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **arrke/arrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
