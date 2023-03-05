@@ -34,7 +34,7 @@
 # Projects:
 ## Educational projects: 
 - Simple game in Phaser: 
-    - [🔗 Website](https://vercel.com/arrke/phaser-simple-game) [📁 Repository](https://github.com/arrke/phaser-game-js/tree/main)
+    - [🔗 Website](https://phaser-simple-game.vercel.app/) [📁 Repository](https://github.com/arrke/phaser-game-js/tree/main)
 - Real time chat using Hotwire:
     - [📁 Repository](https://github.com/arrke/turbo-chat)
 - Simple e-commerce  using Thymeleaf and Spring:
